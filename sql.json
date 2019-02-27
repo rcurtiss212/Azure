@@ -46,14 +46,12 @@
     },
     "adminUser": {
       "type": "string",
-	  "defaultValue": "azradmin"
       "metadata": {
         "description": "Username for admin"
       }
     },
     "adminPassword": {
       "type": "securestring",
-	  "defaultValue": "pleasechangeme"
       "metadata": {
         "description": "Password for admin"
       }
